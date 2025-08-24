@@ -13,4 +13,4 @@ Power BI(Dashboard & Visualization)
 Excel(Data source)
 # Outcome
 A clear and interactive dashboard that shows sales performance, customer insights, and future sales predictions for better decision-making.
-![Sales Dashboard](file:///C:/Users/sneha/OneDrive/Documents/SalesAnalyis.pdf)
+![Sales Dashboard]()
