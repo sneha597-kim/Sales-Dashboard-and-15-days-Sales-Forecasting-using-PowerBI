@@ -1,4 +1,4 @@
-# Sales-Dashboard-and-15-days-Sales-Forecasting-using-PowerBI
+# Sales-Dashboard and 15 days SalesForecasting using PowerBI
 ## Project Overview ##
 This project focuses on **analyzing and visualizing** sales data using **Power BI**.
 It includes an interactive dashboard with sales insights and a 15-day sales forecast.
